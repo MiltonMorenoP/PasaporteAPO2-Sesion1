@@ -26,5 +26,5 @@ public class Computer {
     public void setLocalIncidents(ArrayList<Incident> localIncidents) {
         this.localIncidents = localIncidents;
     }
-    
+
 }
