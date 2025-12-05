@@ -6,4 +6,14 @@
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - pasaporteAPO2</name>
   <url>http://maven.apache.org</url>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.11.4</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
 </project>

@@ -8,6 +8,7 @@ public class Computer {
     private ArrayList<Incident> localIncidents;
 
     public Computer(String serialNumber) {
+        localIncidents = new ArrayList<>();
         this.serialNumber = serialNumber;
     }
 
